@@ -1,4 +1,4 @@
-# Author: Slawomir ¯urek
+# Author: Slawomir Zurek
 # The script is designed to improve the text file by eliminating redundant semicolons.
 
 import os, time, sys
